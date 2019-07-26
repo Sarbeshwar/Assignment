@@ -26,9 +26,8 @@ class Routed_Interface extends Component {
                 <Button number= {8} getValue={this.getValue}/>
                 <Button number= {9} getValue={this.getValue}/>
                 <Button number= {0} getValue={this.getValue}/>
-                <Button number= "clear" />
             </div>
-            <button className="proceed-button">Verify</button>
+            <button className="proceed-button1">Verify</button>
             </div> 
          );
     }
